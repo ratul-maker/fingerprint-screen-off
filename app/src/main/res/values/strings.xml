@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerLock Detector</string>
+    <string name="accessibility_service_description">Detects supported fingerprint sensor gestures.</string>
+</resources>
